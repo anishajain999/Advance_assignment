@@ -1,0 +1,14 @@
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-Group3" viewBox="0 0 50 32">
+<path fill="#0b92d2" style="fill: var(--color1, #0b92d2)" d="M9.613 11.483h-9.333l9.851 20.221h9.333l-9.851-20.221z"></path>
+<path fill="#137bc0" style="fill: var(--color2, #137bc0)" d="M28.797 6.298h-9.333l10.542 25.406h9.333l-10.543-25.406z"></path>
+<path fill="#0e763f" style="fill: var(--color3, #0e763f)" d="M19.465 6.298h9.333l-9.333 25.406h-9.333l9.333-25.406z"></path>
+<path fill="#ffd100" style="fill: var(--color4, #ffd100)" d="M14.144 20.782l-4.012 10.921h9.333l-5.321-10.921z"></path>
+<path fill="#ffd100" style="fill: var(--color4, #ffd100)" d="M10.132 31.704h9.333l-5.321-10.921-4.012 10.921z"></path>
+<path fill="#e20613" style="fill: var(--color5, #e20613)" d="M40.549 0.767h9.333l-10.715 30.936h-9.333l10.715-30.936z"></path>
+<path fill="#0e4b9c" style="fill: var(--color6, #0e4b9c)" d="M34.159 19.219l-4.246 12.258 0.094 0.227h9.333l-5.181-12.485z"></path>
+<path fill="#0e4b9c" style="fill: var(--color6, #0e4b9c)" d="M39.167 31.704l0.079-0.227-5.087-12.258-4.325 12.485h9.333z"></path>
+</symbol>
+</defs>
+</svg>

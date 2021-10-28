@@ -1,0 +1,9 @@
+
+
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-arrow-right-ic" viewBox="0 0 32 32">
+<path fill="#22a75d" style="fill: var(--color1, #22a75d)" d="M17.415 5.253c-0.781-0.781-2.047-0.781-2.828 0s-0.781 2.047 0 2.828l5.919 5.919h-13.838c-1.105 0-2 0.895-2 2s0.895 2 2 2h13.838l-5.919 5.919c-0.781 0.781-0.781 2.047 0 2.828s2.047 0.781 2.828 0l9.333-9.333zM27.182 15.235c-0.098-0.236-0.242-0.457-0.434-0.649l-9.333-9.333zM26.752 17.41c0.359-0.362 0.581-0.86 0.581-1.41 0-0.271-0.054-0.53-0.152-0.766z"></path>
+</symbol>
+</defs>
+</svg>
